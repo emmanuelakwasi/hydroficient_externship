@@ -1,7 +1,7 @@
 # Hydroficient IoT Cyber Defense
 
 **IoT Cybersecurity Externship** | Grand Marina Hotel Water Monitoring System  
-*January – March 2025*
+*January – March 2026*
 
 ---
 
