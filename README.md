@@ -200,4 +200,4 @@ Working through this project made concrete a few things that are easy to accept 
 ## Externship
 
 **Hydroficient IoT Cyber Defense Externship**  
-Completed January – March 2025
+Completed January 2026 – March 2026
